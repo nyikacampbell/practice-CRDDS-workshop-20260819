@@ -1,9 +1,9 @@
 ---
-layout: default
+layout: Home
 title: Home
 ---
 
-## Welcome everyone to my spiffy site!
+## Welcome everyone to my Nyikas test site site!
 
 
 #### Here are some example pages:
